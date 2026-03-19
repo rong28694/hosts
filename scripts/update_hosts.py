@@ -169,6 +169,7 @@ DOMAIN_GROUPS = {
     "==== Fan ====": [
         "my.ipv6boy.com"
         "cloudfisher.net"
+        "www.gying.net"
     ]
 }
 
