@@ -170,6 +170,7 @@ DOMAIN_GROUPS = {
         "my.ipv6boy.com"
         "cloudfisher.net"
         "www.gying.net"
+        "hub.docker.com"
     ]
 }
 
