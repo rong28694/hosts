@@ -333,8 +333,8 @@ def resolve_and_test(domain):
     results_v6.sort(key=lambda x: x[0], reverse=True)
     
     # 返回格式：(ip, method, dns_name)
-    final_v4 = [(ip, method, dns_name) for _, ip, method, dns_name, _ in results_v4[:MAX_IPS]]
-    final_v6 = [(ip, method, dns_name) for _, ip, method, dns_name, _ in results_v6[:MAX_IPS]]
+    final_v4 = [(method, ip, dns_name) for _, method, ip, dns_name, _ in results_v4[:MAX_IPS]]
+    final_v6 = [(method, ip, dns_name) for _, method, ip, dns_name, _ in results_v6[:MAX_IPS]]
     
     return final_v4 + final_v6
 
