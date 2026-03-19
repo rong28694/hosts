@@ -1,61 +1,60 @@
 # Kekylin Hosts Start
 # 项目主页: https://github.com/kekylin/hosts
-# 更新时间: 2026-03-19 11:18:15 Beijing Time
+# 更新时间: 2026-03-19 11:44:24 Beijing Time
 
 # ==== GitHub ====
-github.githubassets.com 185.199.110.154 # https | DNS: 223.5.5.5
-central.github.com 140.82.113.22 # https | DNS: 119.29.29.29
-desktop.githubusercontent.com 185.199.108.133 # https | DNS: 223.5.5.5
-camo.githubusercontent.com 185.199.108.133 # https | DNS: 223.5.5.5
-github.map.fastly.net 185.199.110.133 # https | DNS: 223.5.5.5
-github.global.ssl.fastly.net 151.101.129.194 # https | DNS: 8.8.8.8
-github.global.ssl.fastly.net 2a03:2880:f12c:83:face:b00c:0:25de # https | DNS: 180.76.76.76
-gist.github.com 140.82.114.4 # https | DNS: 8.8.8.8
+github.githubassets.com 185.199.109.154 # https | DNS: 223.5.5.5
+central.github.com 140.82.113.21 # https | DNS: 8.8.8.8
+desktop.githubusercontent.com 185.199.109.133 # https | DNS: 223.5.5.5
+camo.githubusercontent.com 185.199.111.133 # https | DNS: 223.5.5.5
+github.map.fastly.net 185.199.108.133 # https | DNS: 223.5.5.5
+github.global.ssl.fastly.net 151.101.41.194 # https | DNS: 119.29.29.29
+github.global.ssl.fastly.net 2a03:2880:f11b:83:face:b00c:0:25de # https | DNS: 180.76.76.76
+gist.github.com 140.82.116.3 # https | DNS: 114.114.114.114
 gist.github.com 2001::1 # https | DNS: 180.76.76.76
-github.io 185.199.111.153 # tcp | DNS: 223.5.5.5
-github.com 140.82.113.4 # https | DNS: 119.29.29.29
-api.github.com 140.82.112.6 # https | DNS: 119.29.29.29
-raw.githubusercontent.com 185.199.108.133 # tcp | DNS: 223.5.5.5
+github.io 185.199.109.153 # tcp | DNS: 223.5.5.5
+github.com 140.82.116.3 # https | DNS: 119.29.29.29
+api.github.com 140.82.116.6 # https | DNS: 119.29.29.29
+raw.githubusercontent.com 185.199.110.133 # tcp | DNS: 223.5.5.5
 user-images.githubusercontent.com 185.199.110.133 # https | DNS: 223.5.5.5
-user-images.githubusercontent.com 2606:50c0:8002::154 # https | DNS: 223.5.5.5
-favicons.githubusercontent.com 185.199.111.133 # https | DNS: 223.5.5.5
-avatars5.githubusercontent.com 185.199.111.133 # tcp | DNS: 223.5.5.5
-avatars4.githubusercontent.com 185.199.108.133 # tcp | DNS: 223.5.5.5
-avatars3.githubusercontent.com 185.199.109.133 # tcp | DNS: 223.5.5.5
+user-images.githubusercontent.com 2606:50c0:8000::154 # https | DNS: 223.5.5.5
+favicons.githubusercontent.com 185.199.109.133 # https | DNS: 223.5.5.5
+avatars5.githubusercontent.com 185.199.109.133 # tcp | DNS: 223.5.5.5
+avatars4.githubusercontent.com 185.199.110.133 # tcp | DNS: 223.5.5.5
+avatars3.githubusercontent.com 185.199.108.133 # tcp | DNS: 223.5.5.5
 avatars2.githubusercontent.com 185.199.111.133 # tcp | DNS: 223.5.5.5
 avatars1.githubusercontent.com 185.199.110.133 # tcp | DNS: 223.5.5.5
-avatars0.githubusercontent.com 185.199.111.133 # tcp | DNS: 223.5.5.5
-avatars.githubusercontent.com 185.199.110.133 # tcp | DNS: 223.5.5.5
-codeload.github.com 140.82.113.9 # tcp | DNS: 119.29.29.29
-github-cloud.s3.amazonaws.com 16.15.202.77 # https | DNS: 223.5.5.5
-github-com.s3.amazonaws.com 3.5.7.189 # https | DNS: 223.5.5.5
-github-production-release-asset-2e65be.s3.amazonaws.com 16.15.223.209 # https | DNS: 223.5.5.5
-github-production-user-asset-6210df.s3.amazonaws.com 52.216.24.196 # https | DNS: 223.5.5.5
-github-production-repository-file-5c1aeb.s3.amazonaws.com 52.216.63.113 # https | DNS: 223.5.5.5
-githubstatus.com 185.199.109.153 # https | DNS: 223.5.5.5
-github.community 140.82.113.18 # tcp | DNS: 180.76.76.76
-media.githubusercontent.com 185.199.110.133 # tcp | DNS: 223.5.5.5
-objects.githubusercontent.com 185.199.108.133 # https | DNS: 223.5.5.5
-raw.github.com 185.199.110.133 # tcp | DNS: 223.5.5.5
-copilot-proxy.githubusercontent.com 4.249.131.160 # https | DNS: 180.76.76.76
+avatars0.githubusercontent.com 185.199.108.133 # tcp | DNS: 223.5.5.5
+avatars.githubusercontent.com 185.199.108.133 # tcp | DNS: 223.5.5.5
+codeload.github.com 140.82.116.10 # tcp | DNS: 119.29.29.29
+github-cloud.s3.amazonaws.com 52.216.43.49 # https | DNS: 223.5.5.5
+github-com.s3.amazonaws.com 52.217.196.33 # https | DNS: 223.5.5.5
+github-production-release-asset-2e65be.s3.amazonaws.com 54.231.227.57 # https | DNS: 223.5.5.5
+github-production-user-asset-6210df.s3.amazonaws.com 16.15.191.81 # https | DNS: 223.5.5.5
+github-production-repository-file-5c1aeb.s3.amazonaws.com 16.15.183.57 # https | DNS: 223.5.5.5
+githubstatus.com 185.199.111.153 # https | DNS: 223.5.5.5
+github.community 140.82.114.17 # tcp | DNS: 223.5.5.5
+media.githubusercontent.com 185.199.111.133 # tcp | DNS: 223.5.5.5
+objects.githubusercontent.com 185.199.111.133 # https | DNS: 223.5.5.5
+raw.github.com 185.199.109.133 # tcp | DNS: 223.5.5.5
+copilot-proxy.githubusercontent.com 138.91.182.224 # https | DNS: 119.29.29.29
 
 # ==== TMDB ====
-themoviedb.org 18.239.105.64 # tcp | DNS: 223.5.5.5
-themoviedb.org 2600:9000:28a0:6200:e:5373:440:93a1 # https | DNS: 8.8.8.8
-www.themoviedb.org 18.239.105.92 # https | DNS: 223.5.5.5
-www.themoviedb.org 2600:9000:25e8:5000:e:5373:440:93a1 # https | DNS: 223.5.5.5
-api.themoviedb.org 3.173.161.20 # https | DNS: 223.5.5.5
-api.themoviedb.org 2600:9000:28dc:2a00:c:174a:c400:93a1 # https | DNS: 223.5.5.5
-tmdb.org 18.239.83.124 # tcp | DNS: 223.5.5.5
-api.tmdb.org 108.156.60.121 # https | DNS: 223.5.5.5
-api.tmdb.org 2600:9000:2394:5a00:10:fb02:4000:93a1 # https | DNS: 223.5.5.5
-image.tmdb.org 185.93.1.251 # https | DNS: 119.29.29.29
-image.tmdb.org 2400:52e0:1a00::940:1 # https | DNS: 119.29.29.29
+themoviedb.org 65.8.76.58 # tcp | DNS: 223.5.5.5
+www.themoviedb.org 65.8.76.2 # https | DNS: 223.5.5.5
+www.themoviedb.org 2600:9000:2153:a000:e:5373:440:93a1 # https | DNS: 223.5.5.5
+api.themoviedb.org 3.169.71.54 # https | DNS: 223.5.5.5
+api.themoviedb.org 2600:9000:2837:5a00:c:174a:c400:93a1 # https | DNS: 223.5.5.5
+tmdb.org 99.86.20.99 # tcp | DNS: 223.5.5.5
+api.tmdb.org 3.169.71.72 # https | DNS: 223.5.5.5
+api.tmdb.org 2600:9000:2837:1600:10:fb02:4000:93a1 # https | DNS: 223.5.5.5
+image.tmdb.org 143.244.50.84 # https | DNS: 180.76.76.76
+image.tmdb.org 2400:52e0:1a01::1114:1 # https | DNS: 119.29.29.29
 
 # ==== OpenSubtitles ====
-opensubtitles.org 172.67.74.14 # https | DNS: 223.5.5.5
+opensubtitles.org 104.26.7.244 # https | DNS: 223.5.5.5
 opensubtitles.org 2606:4700:20::681a:7f4 # https | DNS: 223.5.5.5
-www.opensubtitles.org 104.26.6.244 # https | DNS: 223.5.5.5
+www.opensubtitles.org 104.26.7.244 # https | DNS: 223.5.5.5
 www.opensubtitles.org 2606:4700:20::681a:6f4 # https | DNS: 223.5.5.5
 api.opensubtitles.org 104.26.7.244 # https | DNS: 223.5.5.5
 api.opensubtitles.org 2606:4700:20::681a:7f4 # https | DNS: 223.5.5.5
