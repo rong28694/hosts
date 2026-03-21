@@ -1,63 +1,64 @@
 # Kekylin Hosts Start
 # 项目主页: https://github.com/kekylin/hosts
-# 更新时间: 2026-03-21 21:06:59 Beijing Time
+# 更新时间: 2026-03-22 02:48:58 Beijing Time
 
 # ==== GitHub ====
-release-assets.githubusercontent.com 185.199.110.133 # https | DNS: AliDNS
+release-assets.githubusercontent.com 185.199.109.133 # https | DNS: AliDNS
 github.githubassets.com 185.199.108.154 # https | DNS: AliDNS
-central.github.com 140.82.113.21 # https | DNS: BaiduDNS
-desktop.githubusercontent.com 185.199.109.133 # https | DNS: AliDNS
-camo.githubusercontent.com 185.199.111.133 # https | DNS: AliDNS
-github.map.fastly.net 185.199.111.133 # https | DNS: AliDNS
-github.global.ssl.fastly.net 151.101.197.194 # https | DNS: DNS114
-github.global.ssl.fastly.net 2a03:2880:f11b:83:face:b00c:0:25de # https | DNS: BaiduDNS
-gist.github.com 140.82.112.4 # https | DNS: TencentDNS
+central.github.com 140.82.114.22 # https | DNS: TencentDNS
+desktop.githubusercontent.com 185.199.111.133 # https | DNS: AliDNS
+camo.githubusercontent.com 185.199.109.133 # https | DNS: AliDNS
+github.map.fastly.net 185.199.110.133 # https | DNS: AliDNS
+github.global.ssl.fastly.net 146.75.93.194 # https | DNS: DNS114
+github.global.ssl.fastly.net 2a03:2880:f127:83:face:b00c:0:25de # https | DNS: BaiduDNS
+gist.github.com 140.82.112.3 # https | DNS: TencentDNS
 gist.github.com 2001::1 # https | DNS: BaiduDNS
 github.io 185.199.110.153 # tcp | DNS: AliDNS
 github.com 140.82.114.3 # https | DNS: TencentDNS
-api.github.com 140.82.114.6 # https | DNS: DNS114
-raw.githubusercontent.com 185.199.110.133 # tcp | DNS: AliDNS
-user-images.githubusercontent.com 185.199.109.133 # https | DNS: AliDNS
+api.github.com 140.82.113.6 # https | DNS: TencentDNS
+raw.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
+user-images.githubusercontent.com 185.199.111.133 # https | DNS: AliDNS
 user-images.githubusercontent.com 2606:50c0:8002::154 # https | DNS: AliDNS
-favicons.githubusercontent.com 185.199.111.133 # https | DNS: AliDNS
+favicons.githubusercontent.com 185.199.108.133 # https | DNS: AliDNS
 avatars5.githubusercontent.com 185.199.111.133 # tcp | DNS: AliDNS
 avatars4.githubusercontent.com 185.199.111.133 # tcp | DNS: AliDNS
-avatars3.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
+avatars3.githubusercontent.com 185.199.111.133 # tcp | DNS: AliDNS
 avatars2.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
-avatars1.githubusercontent.com 185.199.108.133 # tcp | DNS: AliDNS
-avatars0.githubusercontent.com 185.199.110.133 # tcp | DNS: AliDNS
-avatars.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
-codeload.github.com 140.82.112.9 # tcp | DNS: TencentDNS
-github-cloud.s3.amazonaws.com 3.5.0.155 # https | DNS: AliDNS
-github-com.s3.amazonaws.com 52.217.132.65 # https | DNS: AliDNS
-github-production-release-asset-2e65be.s3.amazonaws.com 16.15.207.106 # https | DNS: AliDNS
-github-production-user-asset-6210df.s3.amazonaws.com 16.15.193.212 # https | DNS: AliDNS
-github-production-repository-file-5c1aeb.s3.amazonaws.com 54.231.204.17 # https | DNS: AliDNS
+avatars1.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
+avatars0.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
+avatars.githubusercontent.com 185.199.111.133 # tcp | DNS: AliDNS
+codeload.github.com 140.82.113.9 # tcp | DNS: TencentDNS
+github-cloud.s3.amazonaws.com 52.217.206.233 # https | DNS: AliDNS
+github-com.s3.amazonaws.com 16.15.181.83 # https | DNS: AliDNS
+github-production-release-asset-2e65be.s3.amazonaws.com 3.5.30.202 # https | DNS: AliDNS
+github-production-user-asset-6210df.s3.amazonaws.com 3.5.25.255 # https | DNS: AliDNS
+github-production-repository-file-5c1aeb.s3.amazonaws.com 16.15.183.126 # https | DNS: AliDNS
 githubstatus.com 185.199.109.153 # https | DNS: AliDNS
-github.community 140.82.113.18 # tcp | DNS: AliDNS
+github.community 140.82.113.17 # tcp | DNS: TencentDNS
 media.githubusercontent.com 185.199.109.133 # tcp | DNS: AliDNS
-objects.githubusercontent.com 185.199.108.133 # https | DNS: AliDNS
-raw.github.com 185.199.109.133 # tcp | DNS: AliDNS
-copilot-proxy.githubusercontent.com 4.249.131.160 # https | DNS: TencentDNS
+objects.githubusercontent.com 185.199.111.133 # https | DNS: AliDNS
+raw.github.com 185.199.110.133 # tcp | DNS: AliDNS
+copilot-proxy.githubusercontent.com 20.85.130.105 # https | DNS: TencentDNS
 
 # ==== TMDB ====
-themoviedb.org 3.171.38.13 # tcp | DNS: AliDNS
-www.themoviedb.org 3.171.38.81 # https | DNS: AliDNS
-www.themoviedb.org 2600:9000:28a0:e200:e:5373:440:93a1 # https | DNS: AliDNS
-api.themoviedb.org 3.170.19.104 # https | DNS: AliDNS
-api.themoviedb.org 2600:9000:286d:200:c:174a:c400:93a1 # https | DNS: AliDNS
-tmdb.org 18.160.10.93 # tcp | DNS: AliDNS
-api.tmdb.org 3.170.19.13 # https | DNS: AliDNS
-api.tmdb.org 2600:9000:286d:9a00:10:fb02:4000:93a1 # https | DNS: AliDNS
-image.tmdb.org 185.93.1.249 # https | DNS: TencentDNS
-image.tmdb.org 2400:52e0:1e02::1218:1 # https | DNS: AliDNS
+themoviedb.org 18.239.105.92 # tcp | DNS: AliDNS
+themoviedb.org 2600:9000:269a:ae00:e:5373:440:93a1 # https | DNS: BaiduDNS
+www.themoviedb.org 18.239.105.64 # https | DNS: AliDNS
+www.themoviedb.org 2600:9000:25e8:5e00:e:5373:440:93a1 # https | DNS: AliDNS
+api.themoviedb.org 3.173.161.72 # https | DNS: AliDNS
+api.themoviedb.org 2600:9000:28dc:a00:c:174a:c400:93a1 # https | DNS: AliDNS
+tmdb.org 18.239.105.26 # tcp | DNS: AliDNS
+api.tmdb.org 108.156.60.10 # https | DNS: AliDNS
+api.tmdb.org 2600:9000:2394:1800:10:fb02:4000:93a1 # https | DNS: AliDNS
+image.tmdb.org 169.150.236.106 # https | DNS: TencentDNS
+image.tmdb.org 2400:52e0:1a01::999:1 # https | DNS: DNS114
 
 # ==== OpenSubtitles ====
-opensubtitles.org 104.26.7.244 # https | DNS: AliDNS
-opensubtitles.org 2606:4700:20::681a:6f4 # https | DNS: AliDNS
-www.opensubtitles.org 104.26.7.244 # https | DNS: AliDNS
-www.opensubtitles.org 2606:4700:20::681a:7f4 # https | DNS: AliDNS
-api.opensubtitles.org 104.26.7.244 # https | DNS: AliDNS
+opensubtitles.org 104.26.6.244 # https | DNS: AliDNS
+opensubtitles.org 2606:4700:20::ac43:4a0e # https | DNS: AliDNS
+www.opensubtitles.org 104.26.6.244 # https | DNS: AliDNS
+www.opensubtitles.org 2606:4700:20::ac43:4a0e # https | DNS: AliDNS
+api.opensubtitles.org 104.26.6.244 # https | DNS: AliDNS
 api.opensubtitles.org 2606:4700:20::681a:6f4 # https | DNS: AliDNS
 
 # ==== Fanart ====
