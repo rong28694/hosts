@@ -166,8 +166,6 @@ DOMAIN_GROUPS = {
     ],
     "==== Fanart ====": [
         "assets.fanart.tv"
-    ],
-    "==== Fan ====": [
         "my.ipv6boy.com"
         "cloudfisher.net"
         "www.gying.net"
