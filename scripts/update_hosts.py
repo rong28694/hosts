@@ -171,6 +171,14 @@ DOMAIN_GROUPS = {
         "my.ipv6boy.com",
         "cloudfisher.net",
         "www.gying.net",
+        "www.盗梦空间.com",
+        "www.教父.com",
+        "www.星际穿越.com",
+        "www.楚门的世界.com",
+        "www.泰坦尼克号.com",
+        "www.肖申克的救赎.com",
+        "www.阿甘正传.com",
+        "www.黑客帝国.com",
         "hub.docker.com"
     ]
 }
