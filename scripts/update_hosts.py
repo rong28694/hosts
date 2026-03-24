@@ -117,6 +117,7 @@ DNS_SERVERS = USER_DNS_MAP if USER_DNS_MAP else DEFAULT_DNS_SERVERS.copy()
 # ===== 域名分组 =====
 DOMAIN_GROUPS = {
     "==== GitHub ====": [
+        "github.com",
         "release-assets.githubusercontent.com",
         "github.githubassets.com",
         "central.github.com",
