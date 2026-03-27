@@ -373,7 +373,7 @@ def main():
                 logging.warning("不可达: %s", domain)
                 continue
             for ip, method, dns_name in results:
-                lines.append(f"{domain} {ip} # {method} | DNS: {dns_name}")
+                lines.append(f"{ip} {domain} # {method} | DNS: {dns_name}")
                 logging.info("可用: %s -> %s (%s | %s)", domain, ip, method, dns_name)
         lines.append("")
 
