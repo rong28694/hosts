@@ -127,7 +127,7 @@ DOMAIN_GROUPS = {
         "github.global.ssl.fastly.net",
         "gist.github.com",
         "github.io",
-        "github.com",
+        "#github.com",
         "api.github.com",
         "raw.githubusercontent.com",
         "user-images.githubusercontent.com",
